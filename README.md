@@ -1,1 +1,1 @@
-# daily_coding_problems
+# daily_coding_problems_java
